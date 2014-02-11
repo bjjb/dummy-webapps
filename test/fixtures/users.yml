@@ -1,0 +1,9 @@
+alice:
+  name: Alice Andersson
+  email: alice@example.com
+  type: Administrator
+bob:
+  name: Bob Buckley
+  email: bob@example.com
+cecil:
+  email: cecil@example.com

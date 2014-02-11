@@ -1,0 +1,18 @@
+baked_bun:
+  tag: baked
+  taggable: bun (Product)
+baked_biscuit:
+  tag: baked
+  taggable: biscuit (Product)
+fried_crisps:
+  tag: fried
+  taggable: crisps (Product)
+fried_chips:
+  tag: fried
+  taggable: chips (Product)
+unhealthy_crisps:
+  tag: unhealthy
+  taggable: crisps (Product)
+unhealthy_chips:
+  tag: unhealthy
+  taggable: chips (Product)

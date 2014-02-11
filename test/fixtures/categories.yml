@@ -1,0 +1,9 @@
+furniture:
+  name: Furniture
+  products: armchair
+clothes:
+  name: Clothes
+  products: anorak
+food:
+  name: Food
+  products: bun, biscuit, crisps, chips

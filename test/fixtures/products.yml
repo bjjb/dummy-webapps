@@ -1,0 +1,24 @@
+anorak:
+  name: Anorak
+  user: alice
+  categories: clothes
+armchair:
+  name: Armchair
+  user: alice
+  categories: furniture
+bun:
+  name: Bun
+  user: bob
+  categories: food
+biscuit:
+  name: Biscuit
+  user: bob
+  categories: food
+crisps:
+  name: Crisps
+  user: cecil
+  categories: food
+chips:
+  name: Chips
+  user: cecil
+  categories: food
