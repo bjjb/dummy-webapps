@@ -1,0 +1,2 @@
+# This isn't really a web app, so we don't need a locked set of dependencies
+Gemfile.lock
