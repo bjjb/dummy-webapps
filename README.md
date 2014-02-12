@@ -10,7 +10,7 @@ The apps are on branches:
 - [rails3] is a Ruby (1.9.3) on Rails (3.2.13) app, ActiveRecord and SQLite3
 - [rails4] is a Ruby (2.1.0) on Rails (4.0.1) app, ActiveRecord and SQlite3
 - [sinatra] is a Sinatra (1.4.4) app using MongoDB
-- [activerecord] is a mini-app using ActiveRecord (4.0.2), Rack and SQLite3
+- [activerecord] is a mini-app using ActiveRecord and SQLite3
 - [express] is an ExpressJS app using MongoDB
 
 [rails2]: https://github.com/bjjb/dummy-webapps/tree/rails2
